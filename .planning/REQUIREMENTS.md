@@ -7,15 +7,15 @@
 
 ### Core Commands
 
-- [ ] **CMD-01**: User can add a to-do item via `todo add "text"`
-- [ ] **CMD-02**: User can list all to-do items via `todo list`, with each item showing its ID and text
-- [ ] **CMD-03**: Completed items appear in `todo list` with strikethrough text
-- [ ] **CMD-04**: User can mark an item done via `todo done <id>`
+- [x] **CMD-01**: User can add a to-do item via `todo add "text"`
+- [x] **CMD-02**: User can list all to-do items via `todo list`, with each item showing its ID and text
+- [x] **CMD-03**: Completed items appear in `todo list` with strikethrough text
+- [x] **CMD-04**: User can mark an item done via `todo done <id>`
 
 ### Storage
 
-- [ ] **STOR-01**: Items persist across sessions in `todos.json` in the current working directory
-- [ ] **STOR-02**: `todos.json` is created automatically on first `todo add`
+- [x] **STOR-01**: Items persist across sessions in `todos.json` in the current working directory
+- [x] **STOR-02**: `todos.json` is created automatically on first `todo add`
 
 ### CLI UX
 
@@ -45,16 +45,17 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| CMD-01 | Phase 1 | Pending |
-| CMD-02 | Phase 1 | Pending |
-| CMD-03 | Phase 1 | Pending |
-| CMD-04 | Phase 1 | Pending |
-| STOR-01 | Phase 1 | Pending |
-| STOR-02 | Phase 1 | Pending |
+| CMD-01 | Phase 1 | Complete |
+| CMD-02 | Phase 1 | Complete |
+| CMD-03 | Phase 1 | Complete |
+| CMD-04 | Phase 1 | Complete |
+| STOR-01 | Phase 1 | Complete |
+| STOR-02 | Phase 1 | Complete |
 | UX-01 | Phase 2 | Pending |
 | UX-02 | Phase 2 | Pending |
 
 **Coverage:**
+
 - v1 requirements: 8 total
 - Mapped to phases: 8
 - Unmapped: 0 ✓
