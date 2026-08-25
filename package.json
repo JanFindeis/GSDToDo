@@ -1,0 +1,7 @@
+{
+  "name": "gsdtodo",
+  "version": "1.0.0",
+  "bin": {
+    "todo": "./todo.js"
+  }
+}
