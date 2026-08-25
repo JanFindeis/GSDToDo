@@ -45,20 +45,20 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| CMD-01 | TBD | Pending |
-| CMD-02 | TBD | Pending |
-| CMD-03 | TBD | Pending |
-| CMD-04 | TBD | Pending |
-| STOR-01 | TBD | Pending |
-| STOR-02 | TBD | Pending |
-| UX-01 | TBD | Pending |
-| UX-02 | TBD | Pending |
+| CMD-01 | Phase 1 | Pending |
+| CMD-02 | Phase 1 | Pending |
+| CMD-03 | Phase 1 | Pending |
+| CMD-04 | Phase 1 | Pending |
+| STOR-01 | Phase 1 | Pending |
+| STOR-02 | Phase 1 | Pending |
+| UX-01 | Phase 2 | Pending |
+| UX-02 | Phase 2 | Pending |
 
 **Coverage:**
 - v1 requirements: 8 total
-- Mapped to phases: 0 (pending roadmap)
-- Unmapped: 8 ⚠️
+- Mapped to phases: 8
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-08-25*
-*Last updated: 2026-08-25 after initial definition*
+*Last updated: 2026-08-25 after roadmap creation*
